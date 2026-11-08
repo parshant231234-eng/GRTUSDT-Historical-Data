@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `GRTUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `71` months
-- **Total Candles:** `3,076,126` 1-minute candles
-- **Historical Range:** `2020-12-17 20:30:00` to `2026-10-24 23:59:00` (UTC)
+- **Total Months:** `72` months
+- **Total Candles:** `3,096,286` 1-minute candles
+- **Historical Range:** `2020-12-17 20:30:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
